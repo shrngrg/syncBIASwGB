@@ -9,6 +9,6 @@ Note: Does not append! Your presets and settings from the BIAS/BIAS FX standalon
 
 Usage:
 Step 1. Double-click on syncBIASwithGB.command executable file.
-Step 2. Confirm sync on Terminal.
+Step 2. Confirm sync on Terminal with 'Y' (capitalized).
 
 \m/
